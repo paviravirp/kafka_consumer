@@ -1,5 +1,5 @@
-# kafka_consumer
-A SpringBoot program to consume kafka messages from kafka topic
+# kafka_handlera
+A SpringBoot program to show the handling of kafka topic
 
 
 
